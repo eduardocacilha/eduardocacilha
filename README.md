@@ -1,5 +1,3 @@
-# 👋 Olá! Meu nome é Eduardo Cacilha Steinbach
-
 **Analista de Dados | PostgreeSQL · SQLServer · Python · Power BI · Excel**
 
 Analista de dados e estudante de Sistemas de Informação na UFSC. Construindo uma formação sólida na área de dados movido a inovação e aprendizado.
@@ -9,8 +7,6 @@ Analista de dados e estudante de Sistemas de Informação na UFSC. Construindo u
 🌍 Florianópolis, Santa Catarina — Brasil
 
 🧠 Atuando com: SQL Server · PostgreeSQL · Power BI · Excel · Análise de Dados
-
-🚀 Projeto em andamento: _(coloque aqui o projeto de dados que você está desenvolvendo agora)_
 
 🤝 Aberto a colaborar em: projetos de análise de dados, dashboards e automações com Python
 
