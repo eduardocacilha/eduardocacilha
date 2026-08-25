@@ -21,13 +21,14 @@ Data Analysis • Data Engineering • BI • IA
 <br>
 
 <p align="center">
-Analista de Dados no CIEE SC, dando suporte a 19 unidades, +300 colaboradores e 20 mil estudantes com SQL, Power BI e automações com IA. Ex-estagiário em Engenharia de Dados no Projeto CÉOS – UFSC, onde processei +5 milhões de registros em pipelines Python. Estudante de Sistemas de Informação na UFSC.
+Analista de Dados no CIEE SC, dando suporte a 19 unidades, +300 colaboradores e 20 mil estudantes com SQL, Power BI e automações com IA. 
+Estudante de Sistemas de Informação na UFSC.
 </p>
 
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,aws,git,github,vscode,java,cs,html,js"/>
+  <img src="https://skillicons.dev/icons?i=python,postgres,aws,git,github,vscode"/>
   <br><br>
   <img src="https://img.shields.io/badge/SQL_SERVER-111111?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927"/>
   <img src="https://img.shields.io/badge/POWER_BI-111111?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
