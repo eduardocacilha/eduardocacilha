@@ -1,46 +1,83 @@
-**Analista de Dados | PostgreeSQL · SQLServer · Python · Power BI · Excel**
+<h1 align="center">Oii, eu sou o Eduardo Cacilha, trabalho com Dados & IA!!</h1>
 
-Analista de dados e estudante de Sistemas de Informação na UFSC. Construindo uma formação sólida na área de dados movido a inovação e aprendizado.
+<p align="center">
+Data Analysis • Data Engineering • BI • IA
+</p>
 
----
+<br>
 
-🌍 Florianópolis, Santa Catarina — Brasil
+<div align="center">
+  <a href="https://www.linkedin.com/in/eduardo-cacilha-196581124/">
+    <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/eduardocacilha">
+    <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:ecacilhaa@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
-🧠 Atuando com: SQL Server · PostgreeSQL · Power BI · Excel · Análise de Dados
+<br>
 
-🤝 Aberto a colaborar em: projetos de análise de dados, dashboards e automações com Python
+<p align="center">
+Analista de Dados no CIEE SC, dando suporte a 19 unidades, +300 colaboradores e 20 mil estudantes com SQL, Power BI e automações com IA. Ex-estagiário em Engenharia de Dados no Projeto CÉOS – UFSC, onde processei +5 milhões de registros em pipelines Python. Estudante de Sistemas de Informação na UFSC.
+</p>
 
----
+<br>
 
-## 🛠️ Tecnologias e ferramentas
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres,mssql,aws,git,github,vscode,java,cs,html,js"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/POWER_BI-111111?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+  <img src="https://img.shields.io/badge/EXCEL-111111?style=for-the-badge&logo=microsoftexcel&logoColor=217346"/>
+  <img src="https://img.shields.io/badge/JUPYTER-111111?style=for-the-badge&logo=jupyter&logoColor=F37626"/>
+  <img src="https://img.shields.io/badge/ETL-111111?style=for-the-badge&logo=databricks&logoColor=FF3621"/>
+  <img src="https://img.shields.io/badge/CLAUDE_API-111111?style=for-the-badge&logo=anthropic&logoColor=white"/>
+</div>
 
-
-[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
-
----
+<br>
 
 ## 📂 Projetos em destaque
 
-### 🔵 Sistema de Gerenciamento de Festas (MVC)
-Sistema desenvolvido na disciplina de Desenvolvimento de Sistemas Orientado a Objetos, aplicando o padrão MVC para gerenciamento de festas.
-🔗 [github.com/eduardocacilha/oosd-project](https://github.com/eduardocacilha/oosd-project)
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎉 Sistema de Gerenciamento de Festas (MVC)</h3>
+      <p align="center">Sistema desenvolvido na disciplina de Desenvolvimento de Sistemas Orientado a Objetos (UFSC), aplicando o padrão MVC.</p>
+      <p align="center"><a href="https://github.com/eduardocacilha/oosd-project">🔗 ver repositório</a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧪 Pipeline Python (OOSD)</h3>
+      <p align="center">Pipeline de dados construído em Jupyter Notebook explorando tratamento e análise de dados com Python.</p>
+      <p align="center"><a href="https://github.com/eduardocacilha/pipeline-python-oosd">🔗 ver repositório</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📊 Bootcamp Power BI</h3>
+      <p align="center">Projetos do bootcamp DIO + Santander Academy, desenvolvendo competências em Power BI rumo à certificação PL-300.</p>
+      <p align="center"><a href="https://github.com/eduardocacilha/powerbi-bootcamp">🔗 ver repositório</a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🐍 Algoritmos em Python (POO1)</h3>
+      <p align="center">Algoritmos para resolução de problemas desenvolvidos na disciplina de introdução à Programação Orientada a Objetos.</p>
+      <p align="center"><a href="https://github.com/eduardocacilha/POO1">🔗 ver repositório</a></p>
+    </td>
+  </tr>
+</table>
 
-### 🔵 Algoritmos em Python (POO1)
-Conjunto de algoritmos para resolução de problemas desenvolvidos na disciplina de introdução à Programação Orientada a Objetos, base da minha formação em lógica e Python.
-🔗 [github.com/eduardocacilha/POO1](https://github.com/eduardocacilha/POO1)
+<br>
 
+## 📈 GitHub Stats
 
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=eduardocacilha&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocacilha&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+</p>
 
----
+<br>
 
-## 📬 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-cacilha-196581124/)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ecacilhaa@gmail.com)
+<p align="center">
+  🌍 Florianópolis, Santa Catarina — Brasil &nbsp;•&nbsp; 🤝 Aberto a colaborar em projetos de dados, dashboards e automações com IA
+</p>
