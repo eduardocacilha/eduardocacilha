@@ -28,7 +28,7 @@ Estudante de Sistemas de Informação na UFSC.
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,aws,git,github,vscode,java,cs,html,js"/>
+  <img src="https://skillicons.dev/icons?i=python,postgres,aws,git,github,vscode"/>
   <br><br>
   <img src="https://img.shields.io/badge/SQL_SERVER-111111?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927"/>
   <img src="https://img.shields.io/badge/POWER_BI-111111?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
