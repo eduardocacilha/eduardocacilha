@@ -31,11 +31,11 @@ Estudante de Sistemas de Informação na UFSC.
   <img src="https://skillicons.dev/icons?i=python,postgres,aws,git,github,vscode"/>
   <br><br>
   <img src="https://img.shields.io/badge/SQL_SERVER-111111?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927"/>
-  <img src="https://img.shields.io/badge/POWER_BI-111111?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
-  <img src="https://img.shields.io/badge/EXCEL-111111?style=for-the-badge&logo=microsoftexcel&logoColor=217346"/>
   <img src="https://img.shields.io/badge/JUPYTER-111111?style=for-the-badge&logo=jupyter&logoColor=F37626"/>
   <img src="https://img.shields.io/badge/DATABRICKS-111111?style=for-the-badge&logo=databricks&logoColor=FF3621"/>
   <img src="https://img.shields.io/badge/CLAUDE_API-111111?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/POWER_BI-111111?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+  <img src="https://img.shields.io/badge/EXCEL-111111?style=for-the-badge&logo=microsoftexcel&logoColor=217346"/>
 </div>
 
 <br>
