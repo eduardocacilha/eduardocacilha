@@ -28,7 +28,7 @@ Estudante de Sistemas de Informação na UFSC.
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,aws,git,github,vscode"/>
+  <img src="https://skillicons.dev/icons?i=python,postgres,aws,git,github,vscode,java,cs,html,js"/>
   <br><br>
   <img src="https://img.shields.io/badge/SQL_SERVER-111111?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927"/>
   <img src="https://img.shields.io/badge/POWER_BI-111111?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
@@ -45,27 +45,35 @@ Estudante de Sistemas de Informação na UFSC.
 <table align="center">
   <tr>
     <td width="50%">
+      <h3 align="center">⭐ Data Analyst Pipeline</h3>
+      <p align="center">Meu primeiro projeto de engenharia de dados: pipeline analítico construído em Jupyter Notebook.</p>
+      <p align="center"><a href="https://github.com/eduardocacilha/data-analyst-pipeline">🔗 ver repositório</a></p>
+    </td>
+    <td width="50%">
       <h3 align="center">🎉 Sistema de Gerenciamento de Festas (MVC)</h3>
       <p align="center">Sistema desenvolvido na disciplina de Desenvolvimento de Sistemas Orientado a Objetos (UFSC), aplicando o padrão MVC.</p>
       <p align="center"><a href="https://github.com/eduardocacilha/oosd-project">🔗 ver repositório</a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">🧪 Pipeline Python (OOSD)</h3>
       <p align="center">Pipeline de dados construído em Jupyter Notebook explorando tratamento e análise de dados com Python.</p>
       <p align="center"><a href="https://github.com/eduardocacilha/pipeline-python-oosd">🔗 ver repositório</a></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">📊 Bootcamp Power BI</h3>
       <p align="center">Projetos do bootcamp DIO + Santander Academy, desenvolvendo competências em Power BI rumo à certificação PL-300.</p>
       <p align="center"><a href="https://github.com/eduardocacilha/powerbi-bootcamp">🔗 ver repositório</a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">🐍 Algoritmos em Python (POO1)</h3>
       <p align="center">Algoritmos para resolução de problemas desenvolvidos na disciplina de introdução à Programação Orientada a Objetos.</p>
       <p align="center"><a href="https://github.com/eduardocacilha/POO1">🔗 ver repositório</a></p>
     </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
