@@ -82,8 +82,10 @@ Estudante de Sistemas de Informação na UFSC.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=eduardocacilha&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocacilha&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+<a href="https://github.com/eduardocacilha">
+  <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocacilha&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+  <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api?username=eduardocacilha&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
+</a>
 </p>
 
 <br>
