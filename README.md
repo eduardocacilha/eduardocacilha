@@ -83,8 +83,8 @@ Estudante de Sistemas de Informação na UFSC.
 
 <p align="center">
 <a href="https://github.com/eduardocacilha">
-  <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocacilha&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
-  <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api?username=eduardocacilha&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" height="165em" src="https://eduardocacilha-readme-stats.vercel.app/api/top-langs/?username=eduardocacilha&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+  <img loading="lazy" height="165em" src="https://eduardocacilha-readme-stats.vercel.app/api?username=eduardocacilha&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
