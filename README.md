@@ -21,7 +21,7 @@ Data Analysis • Data Engineering • BI • IA
 <br>
 
 <p align="center">
-Analista de Dados no CIEE SC, dando suporte a 19 unidades, +300 colaboradores e 20 mil estudantes com SQL, Power BI e automações com IA. 
+Analytics Engineer atuando no CIEE SC, prestando suporte a 19 unidades, +300 colaboradores e 20 mil estudantes com SQL, Power BI e automações com IA. 
 Estudante de Sistemas de Informação na UFSC.
 </p>
 
