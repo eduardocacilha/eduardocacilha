@@ -45,8 +45,8 @@ Estudante de Sistemas de Informação na UFSC.
 <table align="center">
   <tr>
     <td width="50%">
-      <h3 align="center">⭐ Data Analyst Pipeline</h3>
-      <p align="center">Meu primeiro projeto de engenharia de dados: pipeline analítico construído em Jupyter Notebook.</p>
+      <h3 align="center">Analytics-Engineer-Pipeline</h3>
+      <p align="center">Ingestão de dados da NYC com ingestão para o S3 utilizando notebooks no databricks, tratamento com dbt e visualização final com BI.</p>
       <p align="center"><a href="https://github.com/eduardocacilha/data-analyst-pipeline">🔗 ver repositório</a></p>
     </td>
     <td width="50%">
