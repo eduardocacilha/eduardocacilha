@@ -1,7 +1,7 @@
-<h1 align="center">Oii, eu sou o Eduardo Cacilha, trabalho com Dados & IA!!</h1>
+<h1 align="center">Oii, eu sou o Eduardo Cacilha, trabalho com Engenharia de Dados!</h1>
 
 <p align="center">
-Data Analysis • Data Engineering • BI • IA
+Data Engineering • Analytics Engineering • SQL • Python • dbt • Databricks
 </p>
 
 <br>
@@ -21,8 +21,9 @@ Data Analysis • Data Engineering • BI • IA
 <br>
 
 <p align="center">
-Analytics Engineer atuando no CIEE SC, prestando suporte a 19 unidades, +300 colaboradores e 20 mil estudantes com SQL, Power BI e automações com IA. 
-Estudante de Sistemas de Informação na UFSC.
+Analista de Suporte / Dados no <b>CIEE SC</b>: gero e otimizo relatórios com SQL e Power BI para 19 unidades, +300 colaboradores e +20 mil estudantes ativos, e automatizo a auditoria de dados entre áreas com LLMs (Claude API).<br>
+Antes, estagiário de Engenharia de Dados no <b>Projeto CÉOS (UFSC)</b>: ingestão de +5 milhões de registros em Parquet com microsserviços Python e modelagem do banco unificado em PostgreSQL.<br>
+Microsoft Certified: Azure Data Fundamentals (DP-900) · Sistemas de Informação na UFSC.
 </p>
 
 <br>
@@ -31,11 +32,11 @@ Estudante de Sistemas de Informação na UFSC.
   <img src="https://skillicons.dev/icons?i=python,postgres,aws,git,github,vscode"/>
   <br><br>
   <img src="https://img.shields.io/badge/SQL_SERVER-111111?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927"/>
-  <img src="https://img.shields.io/badge/JUPYTER-111111?style=for-the-badge&logo=jupyter&logoColor=F37626"/>
   <img src="https://img.shields.io/badge/DATABRICKS-111111?style=for-the-badge&logo=databricks&logoColor=FF3621"/>
-  <img src="https://img.shields.io/badge/CLAUDE_API-111111?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DBT-111111?style=for-the-badge&logo=dbt&logoColor=FF694B"/>
+  <img src="https://img.shields.io/badge/JUPYTER-111111?style=for-the-badge&logo=jupyter&logoColor=F37626"/>
   <img src="https://img.shields.io/badge/POWER_BI-111111?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
-  <img src="https://img.shields.io/badge/EXCEL-111111?style=for-the-badge&logo=microsoftexcel&logoColor=217346"/>
+  <img src="https://img.shields.io/badge/CLAUDE_API-111111?style=for-the-badge&logo=anthropic&logoColor=white"/>
 </div>
 
 <br>
@@ -45,37 +46,43 @@ Estudante de Sistemas de Informação na UFSC.
 <table align="center">
   <tr>
     <td width="50%">
-      <h3 align="center">Analytics-Engineer-Pipeline</h3>
-      <p align="center">Ingestão de dados da NYC com ingestão para o S3 utilizando notebooks no databricks, tratamento com dbt e visualização final com BI.</p>
-      <p align="center"><a href="https://github.com/eduardocacilha/data-analyst-pipeline">🔗 ver repositório</a></p>
+      <h3 align="center">🚕 NYC Taxi Pipeline — Medalhão + dbt</h3>
+      <p align="center">Pipeline analítico sobre ~11,7M de corridas do NYC TLC: ingestão Python → AWS S3, bronze em Delta no Databricks, silver em star schema e gold com métricas agregadas via dbt. Snapshot SCD Type 2, testes de integridade referencial e modelo de observabilidade da taxa de rejeição da ingestão.</p>
+      <p align="center"><code>AWS S3 · Databricks · dbt · SQL · Python</code></p>
+      <p align="center"><a href="https://github.com/eduardocacilha/Analytics-Engineer-Pipeline">🔗 ver repositório</a></p>
     </td>
     <td width="50%">
-      <h3 align="center">🎉 Sistema de Gerenciamento de Festas (MVC)</h3>
-      <p align="center">Sistema desenvolvido na disciplina de Desenvolvimento de Sistemas Orientado a Objetos (UFSC), aplicando o padrão MVC.</p>
-      <p align="center"><a href="https://github.com/eduardocacilha/oosd-project">🔗 ver repositório</a></p>
+      <h3 align="center">🗄️ LearningSqlServer — T-SQL</h3>
+      <p align="center">Scripts de estudo em T-SQL: joins, subqueries, CASE WHEN, funções e views. Base prática das certificações SQL Server 2022 (Alura).</p>
+      <p align="center"><code>SQL Server · T-SQL</code></p>
+      <p align="center"><a href="https://github.com/eduardocacilha/LearningSqlServer">🔗 ver repositório</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3 align="center">🧪 Pipeline Python (OOSD)</h3>
-      <p align="center">Pipeline de dados construído em Jupyter Notebook explorando tratamento e análise de dados com Python.</p>
+      <p align="center">Pipeline de dados em Python organizado em camadas raw → processed, com exploração e tratamento em notebooks Jupyter.</p>
+      <p align="center"><code>Python · Jupyter</code></p>
       <p align="center"><a href="https://github.com/eduardocacilha/pipeline-python-oosd">🔗 ver repositório</a></p>
     </td>
     <td width="50%">
       <h3 align="center">📊 Bootcamp Power BI</h3>
-      <p align="center">Projetos do bootcamp DIO + Santander Academy, desenvolvendo competências em Power BI rumo à certificação PL-300.</p>
+      <p align="center">Projeto de análise de vendas do Bootcamp Power BI (DIO + Santander Academy), certificado em jul/2026.</p>
+      <p align="center"><code>Power BI</code></p>
       <p align="center"><a href="https://github.com/eduardocacilha/powerbi-bootcamp">🔗 ver repositório</a></p>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🐍 Algoritmos em Python (POO1)</h3>
-      <p align="center">Algoritmos para resolução de problemas desenvolvidos na disciplina de introdução à Programação Orientada a Objetos.</p>
-      <p align="center"><a href="https://github.com/eduardocacilha/POO1">🔗 ver repositório</a></p>
-    </td>
-    <td width="50%"></td>
-  </tr>
 </table>
+
+<br>
+
+## 🏅 Certificações
+
+<p align="center">
+  <a href="[LINK_DA_CREDENCIAL_DP900](https://learn.microsoft.com/pt-br/users/eduardocacilha-0891/credentials/fc19e40ff76b09ad?ref=https%3A%2F%2Fwww.linkedin.com%2F)"><img src="https://img.shields.io/badge/DP--900-Azure_Data_Fundamentals-111111?style=for-the-badge&logo=microsoftazure&logoColor=0078D4"/></a>
+  <img src="https://img.shields.io/badge/ALURA-SQL_Server_2022-111111?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927"/>
+  <img src="https://img.shields.io/badge/DIO-Bootcamp_Power_BI-111111?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+</p>
 
 <br>
 
@@ -91,5 +98,5 @@ Estudante de Sistemas de Informação na UFSC.
 <br>
 
 <p align="center">
-  🌍 Florianópolis, Santa Catarina — Brasil &nbsp;•&nbsp; 🤝 Aberto a colaborar em projetos de dados, dashboards e automações com IA
+  🌍 Florianópolis, Santa Catarina — Brasil &nbsp;•&nbsp; 🚀 Aberto a oportunidades em Engenharia de Dados
 </p>
