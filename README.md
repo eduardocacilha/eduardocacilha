@@ -23,7 +23,7 @@ Data Engineering • Analytics Engineering • SQL • Python • dbt • Databr
 <p align="center">
 Analista de Suporte / Dados no <b>CIEE SC</b>: gero e otimizo relatórios com SQL e Power BI para 19 unidades, +300 colaboradores e +20 mil estudantes ativos, e automatizo a auditoria de dados entre áreas com LLMs (Claude API).<br>
 Antes, estagiário de Engenharia de Dados no <b>Projeto CÉOS (UFSC)</b>: ingestão de +5 milhões de registros em Parquet com microsserviços Python e modelagem do banco unificado em PostgreSQL.<br>
-Microsoft Certified: Azure Data Fundamentals (DP-900) · Sistemas de Informação na UFSC.
+2x Microsoft Certified: Azure Data Fundamentals (DP-900) e Azure Fundamentals (AZ-900) · Sistemas de Informação na UFSC.
 </p>
 
 <br>
