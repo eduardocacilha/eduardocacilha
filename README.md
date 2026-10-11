@@ -78,13 +78,24 @@ Microsoft Certified: Azure Data Fundamentals (DP-900) · Sistemas de Informaçã
 
 ## 🏅 Certificações
 
-<p align="center">
-  <a href="https://learn.microsoft.com/pt-br/users/eduardocacilha-0891/credentials/fc19e40ff76b09ad">
-    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="130" alt="Microsoft Certified: Azure Data Fundamentals (DP-900)"/>
-  </a>
-  <br>
-  <sub><b>Microsoft Certified: Azure Data Fundamentals (DP-900)</b></sub>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://learn.microsoft.com/pt-br/users/eduardocacilha-0891/credentials/fc19e40ff76b09ad">
+        <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="130" alt="Microsoft Certified: Azure Data Fundamentals (DP-900)"/>
+      </a>
+      <br>
+      <sub><b>Microsoft Certified: Azure Data Fundamentals (DP-900)</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://learn.microsoft.com/pt-br/users/eduardocacilha-0891/credentials/56f271affb57e353">
+        <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="130" alt="Microsoft Certified: Azure Fundamentals (AZ-900)"/>
+      </a>
+      <br>
+      <sub><b>Microsoft Certified: Azure Fundamentals (AZ-900)</b></sub>
+    </td>
+  </tr>
+</table>
 
 <br>
 
