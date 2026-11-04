@@ -1,4 +1,4 @@
-<h1 align="center">Oii, eu sou o Eduardo Cacilha, trabalho com Engenharia de Dados!</h1>
+<h1 align="center">### Engenharia de Dados · SQL · Python · dbt · Databricks — Florianópolis, SC</h1>
 
 <p align="center">
 Data Engineering • Analytics Engineering • SQL • Python • dbt • Databricks
