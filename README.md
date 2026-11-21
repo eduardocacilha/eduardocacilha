@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/eduardo-cacilha-196581124/">
+  <a href="https://www.linkedin.com/in/eduardocacilha/">
     <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/eduardocacilha">
